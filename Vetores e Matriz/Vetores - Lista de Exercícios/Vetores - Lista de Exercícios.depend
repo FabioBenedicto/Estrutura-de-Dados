@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1659028148 source:c:\users\fabio\desktop\vetores - lista de exercícios\vetores.cpp
+	<stdio.h>
+
+1659028179 source:c:\users\fabio\desktop\vetores - lista de exercícios\main.cpp
+	<iostream>
+	"vetores.h"
+	<locale.h>
+
+1658855222 c:\users\fabio\desktop\vetores - lista de exercícios\vetores.h
+

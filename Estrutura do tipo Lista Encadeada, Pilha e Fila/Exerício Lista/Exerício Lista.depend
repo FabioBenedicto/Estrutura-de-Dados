@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659026471 source:c:\users\fabio\desktop\exerício lista\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1659028538 source:c:\users\fabio\desktop\vida de estagiário\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

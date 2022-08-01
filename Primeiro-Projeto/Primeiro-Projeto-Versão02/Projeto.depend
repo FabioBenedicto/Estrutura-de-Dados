@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1614879881 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-00\calc.cpp
+
+1614878788 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-00\funcoes.cpp
+	<stdio.h>
+
+1614880127 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-00\main.cpp
+	<iostream>
+	"funcoes.h"
+	"calc.h"
+
+1614878530 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-00\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-00\calc.h
+
+1615482412 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-01\calc.cpp
+	<stdio.h>
+
+1615486840 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-01\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1615487046 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-01\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"funcoes.h"
+	"calc.h"
+
+1615486501 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-01\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-01\calc.h
+
+1615482412 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-03\calc.cpp
+	<stdio.h>
+
+1616089387 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-03\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1616088011 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-03\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"funcoes.h"
+	"calc.h"
+
+1615486501 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-03\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-03\calc.h
+
+1615482412 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-02\calc.cpp
+	<stdio.h>
+
+1616089269 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-02\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1616089364 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-02\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"funcoes.h"
+	"calc.h"
+
+1616089342 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-02\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versão-02\calc.h
+
+1615482412 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versao-03\calc.cpp
+	<stdio.h>
+
+1616089387 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versao-03\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1616693569 source:d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versao-03\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	"string.h"
+	"funcoes.h"
+	"calc.h"
+
+1616089342 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versao-03\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundo ano\estrutura de dados\c\projeto\versao-03\calc.h
+
+1615482412 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-03\calc.cpp
+	<stdio.h>
+
+1618273925 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-03\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+
+1618273803 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-03\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"calc.h"
+
+1618273149 d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-03\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-03\calc.h
+
+1618275929 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-04\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"calc.h"
+
+1618274892 d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-04\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-04\calc.h
+
+1618274771 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-04\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+
+1618275929 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-05\main.cpp
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+	"calc.h"
+
+1618274892 d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-05\funcoes.h
+
+1614879881 d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-05\calc.h
+
+1618282042 source:d:\users\usuario\pastas\pd\segundoano\estruturadedados\c\projeto\versao-05\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+

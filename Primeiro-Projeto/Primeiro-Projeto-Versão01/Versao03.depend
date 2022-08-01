@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1615590639 source:c:\estrututura-de-dados\versão03\calc.cpp
+
+1616090090 source:c:\estrututura-de-dados\versão03\funcoes.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+
+1616090332 source:c:\estrututura-de-dados\versão03\main.cpp
+	<iostream>
+	"funcoes.h"
+	<locale.h>
+	<stdlib.h>
+	"calc.h"
+
+1616089272 c:\estrututura-de-dados\versão03\funcoes.h
+
+1615590639 c:\estrututura-de-dados\versão03\calc.h
+

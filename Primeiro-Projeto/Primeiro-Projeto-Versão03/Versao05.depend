@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1615590639 source:c:\estrututura-de-dados\versão03\calc.cpp
+
+1616090090 source:c:\estrututura-de-dados\versão03\funcoes.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+
+1616090332 source:c:\estrututura-de-dados\versão03\main.cpp
+	<iostream>
+	"funcoes.h"
+	<locale.h>
+	<stdlib.h>
+	"calc.h"
+
+1616089272 c:\estrututura-de-dados\versão03\funcoes.h
+
+1615590639 c:\estrututura-de-dados\versão03\calc.h
+
+1618408102 source:c:\estrututura-de-dados\versão04\calc.cpp
+
+1618436862 source:c:\estrututura-de-dados\versão04\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+
+1618434811 source:c:\estrututura-de-dados\versão04\main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"calc.h"
+	"funcoes.h"
+
+1618409084 c:\estrututura-de-dados\versão04\funcoes.h
+
+1617996220 c:\estrututura-de-dados\versão04\calc.h
+
+1618408102 source:c:\estrututura-de-dados\versão05\calc.cpp
+
+1618506862 source:c:\estrututura-de-dados\versão05\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+
+1618434811 source:c:\estrututura-de-dados\versão05\main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"calc.h"
+	"funcoes.h"
+
+1617996220 c:\estrututura-de-dados\versão05\calc.h
+
+1618438199 c:\estrututura-de-dados\versão05\funcoes.h
+
+1618408102 source:c:\estrututura-de-dados\versao6\calc.cpp
+
+1621215663 source:c:\estrututura-de-dados\versao6\main.cpp
+	<iostream>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes.h"
+
+1617996220 c:\estrututura-de-dados\versao6\calc.h
+
+1621215663 c:\estrututura-de-dados\versao6\funcoes.h
+
+1621215948 source:c:\estrututura-de-dados\versao6\funcoes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<string.h>
+	<unistd.h>
+	"funcoes.h"
+

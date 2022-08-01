@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1659292178 source:c:\users\fabio\desktop\exercício fila\tenda.cpp
+	<stdio.h>
+	<stdlib.h>
+	"tenda.h"
+
+1659292182 c:\users\fabio\desktop\exercício fila\tenda.h
+

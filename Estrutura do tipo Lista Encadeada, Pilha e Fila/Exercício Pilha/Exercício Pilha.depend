@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1658957014 source:c:\users\fabio\desktop\exercício pilha\pilha.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	"pilha.h"
+
+1658955814 source:c:\users\fabio\desktop\exercício pilha\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"pilha.h"
+
+1658956694 c:\users\fabio\desktop\exercício pilha\pilha.h
+
